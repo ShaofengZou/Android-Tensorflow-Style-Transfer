@@ -19,7 +19,7 @@ The app can be download via [BaiduCloud]((https://pan.baidu.com/s/10pMQnKWoPmTdr
 * [COCO dataset (about 12GB)](http://msvocds.blob.core.windows.net/coco2014/train2014.zips)	
 * [VGG pre-trained model](http://www.vlfeat.org/matconvnet/pretrained/)	
 
-Unzip the train2014.zip and put the folder "train2014" and "imagenet-vgg-verydeep-19.mat" to the "data" folder
+Unzip the train2014.zip and put the folder `train2014` and `imagenet-vgg-verydeep-19.mat` to the `data` folder
 
 ### Step2. Train model
 The training code refers to [@GuidoPaul](https://github.com/GuidoPaul/Android-Tensorflow-Style-Transfer)
