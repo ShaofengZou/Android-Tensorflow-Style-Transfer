@@ -55,4 +55,4 @@ To add your trained model, you need to follow these steps:
 1. Add the style model to the folder `Part2_Android_Project\Style_Transfer\app\src\main\assets`
 2. Add this model to `pu_list` at Line **73** in **MainActivity.java**
 
-welcome to fork and star
+If you like it, welcome to **fork** and **star** ^_^
