@@ -8,7 +8,7 @@ Artistic style transfer help you creat exciting image with sytle you like. It ne
 
 This project implement style transfer on Android platfrom. It contains two parts including training style model on computer using python and deploy the model to the moblie phone with Android Studio.
 
-The app can be download via [BaiduCloud](https://pan.baidu.com/s/10pMQnKWoPmTdra1GovThqg)
+The app can be download via [BaiduCloud](https://pan.baidu.com/s/10pMQnKWoPmTdra1GovThqg) or [GoogleDriver](https://drive.google.com/open?id=1tTj7I8WnYQYNhFwqgX8av6Gr2rAJ17hq)
 <p align="center"> 
 <img src="README/app.png" width=30% >
 
